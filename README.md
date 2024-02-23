@@ -149,11 +149,9 @@ http://127.0.0.1:8000
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Output
+## Screenshots
 
-![image](https://user-images.githubusercontent.com/83164668/135760073-3e3e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e.png)
-
-![image](https://user-images.githubusercontent.com/83164668/135760084-3e3e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e.png)
+![image](https://raw.githubusercontent.com/anas1412/TALL-Stack-Test/main/LaravelTest01.png)
 
 ## Additional Notes
 
@@ -162,7 +160,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 -   The project includes a simple counter component, a calculator component, a user count component, and a user search component.
 -   The project includes a simple database with a `users` table to demonstrate the user count and user search components.
 -   The project includes a simple layout with a navigation bar and a footer.
-
-```
-
-```
