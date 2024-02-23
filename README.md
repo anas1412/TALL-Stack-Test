@@ -145,15 +145,15 @@ php artisan serve
 http://127.0.0.1:8000
 ```
 
-## License
+#### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Screenshots
+#### Screenshots
 
 ![image](https://raw.githubusercontent.com/anas1412/TALL-Stack-Test/main/LaravelTest01.png)
 
-## Additional Notes
+#### Additional Notes
 
 -   The project is built using Laravel 8 and PHP 7.4.
 -   The project uses the TALL stack (Tailwind CSS, Alpine.js, Laravel, and Livewire).
