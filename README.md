@@ -145,6 +145,10 @@ php artisan serve
 http://127.0.0.1:8000
 ```
 
+#### License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 #### Screenshots
 
 ![image](https://raw.githubusercontent.com/anas1412/TALL-Stack-Test/main/LaravelTest01.png)
@@ -156,7 +160,3 @@ http://127.0.0.1:8000
 -   The project includes a simple counter component, a calculator component, a user count component, and a user search component.
 -   The project includes a simple database with a `users` table to demonstrate the user count and user search components.
 -   The project includes a simple layout with a navigation bar and a footer.
-
-#### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
